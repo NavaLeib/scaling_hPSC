@@ -4,7 +4,6 @@ import numpy as np
 import random
 
 from clones_dynamic_functions import *
-from analysis import Analysis
 
 for cells in  [ 10 ** 5]:#[10**4, 10 ** 5,10**6]  ## 
 
